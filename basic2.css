@@ -1,0 +1,14 @@
+body
+{
+	text-align : center;
+	font-size : 15pt;
+	line-height : 14pt;
+	color : green;
+	background-color : orange;
+	font-family : monospace;
+}
+ul
+{
+	width: 30%;
+	margin: auto;
+}
