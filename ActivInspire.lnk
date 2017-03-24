@@ -1,0 +1,8 @@
+var yeet : int
+var thing : real
+const miscexp : int := 100
+const tickcost : int := 65
+put "What did your expenses total to? $"..
+get thing
+yeet := (thing-miscexp) div tickcost
+put "If your budget is $", thing-miscexp, " ,then you must get ", yeet , " people to come."
