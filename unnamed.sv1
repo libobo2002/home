@@ -1,0 +1,4 @@
+function random(letter : string) : string
+    var something : string := ""
+    for decreasing i : length(letter) .. 1
+	something += letter(i)
